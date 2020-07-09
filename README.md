@@ -4,7 +4,7 @@ In these workbooks, I've taken some data from the CDC and from Johns Hopkins Uni
 
 As a note, there might be crazy things in these notebooks, as it's very much a work in progress and something that I just do for fun. 
 
-![COVID-19 Animation](covid19-county-spread.gif)
+![COVID-19 Animation](Animated Map - County Spread Rate.gif)
 
 ![COVID-19 Animation](covid19-case-lapse.gif)
 
