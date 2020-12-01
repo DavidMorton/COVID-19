@@ -1,0 +1,8 @@
+file 'c:\Users\izdr\source\repos\COVID-19-Analysis\gitignore-county-spread-images-30D\202003290000.png' 
+file 'c:\Users\izdr\source\repos\COVID-19-Analysis\gitignore-county-spread-images-30D\202004280000.png' 
+file 'c:\Users\izdr\source\repos\COVID-19-Analysis\gitignore-county-spread-images-30D\202005280000.png' 
+file 'c:\Users\izdr\source\repos\COVID-19-Analysis\gitignore-county-spread-images-30D\202006270000.png' 
+file 'c:\Users\izdr\source\repos\COVID-19-Analysis\gitignore-county-spread-images-30D\202007270000.png' 
+file 'c:\Users\izdr\source\repos\COVID-19-Analysis\gitignore-county-spread-images-30D\202008260000.png' 
+file 'c:\Users\izdr\source\repos\COVID-19-Analysis\gitignore-county-spread-images-30D\202009250000.png' 
+file 'c:\Users\izdr\source\repos\COVID-19-Analysis\gitignore-county-spread-images-30D\202010250000.png' 
