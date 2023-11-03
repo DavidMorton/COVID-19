@@ -10,8 +10,6 @@ As a note, there might be crazy things in these notebooks, as it's very much a w
 
 ![COVID-19 County by County Heatmap](Output/covid19-animated-heatmap-by-county.gif)
 
-![Blah](Animated%20Map%20-%20County%20Spread%20Rate-3H-20201130.mp4)
-
 ## Incidence Rate Heatmap
 ![COVID-19 Incidence Case Heatmap](Output/covid19-incidence-case.png)
 
