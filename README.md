@@ -13,3 +13,5 @@ As a note, there might be crazy things in these notebooks, as it's very much a w
 ## Incidence Rate Heatmap
 ![COVID-19 Incidence Case Heatmap](Output/covid19-incidence-case.png)
 
+## Heatmap
+![COVID-19 Heatmap](Output/covid19-heatmap.png)
